@@ -35,7 +35,7 @@ const Footer = () => {
           href="mailto:naheemademola21@gmail.com"
           data-hover="Let's talk!"
         >
-          Need a Software Developer?
+          Need A Software Developer?
         </FooterBigLink>
       </FooterBigLinkContainer>
       <FooterContacts>

@@ -30,9 +30,6 @@ export const StyledNavbar = styled.nav`
   }
 `;
 
-export const NavLogo = styled.img`
-  cursor: pointer;
-`;
 
 export const NavMenuList = styled.ul`
   display: flex;

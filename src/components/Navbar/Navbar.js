@@ -3,13 +3,11 @@ import {
   Line,
   Menu,
   NavList,
-  NavLogo,
   NavMenuList,
   StyledCTA,
   StyledNavbar,
   StyledNavLinks,
 } from "../styles/Navbar.styled";
-import logo from "../../assets/logo.svg";
 import { animateScroll as scroll } from "react-scroll";
 import MobileMenu from "./MobileMenu";
 
@@ -27,6 +25,7 @@ const Navbar = () => {
 
   window.addEventListener("scroll", stickyNavFunction);
 
+  // eslint-disable-next-line no-unused-vars
   const toTop = () => {
     scroll.scrollToTop({ delay: 0, duration: 0 });
   };
@@ -38,9 +37,9 @@ const Navbar = () => {
 
   return (
     <StyledNavbar className={stickyNav ? "sticky" : ""}>
-      <div>
+      {/* <div>
         <NavLogo to="/" onClick={toTop} src={logo} alt="logo" />
-      </div>
+      </div> */}
       <NavMenuList>
         <NavList>
           <StyledNavLinks

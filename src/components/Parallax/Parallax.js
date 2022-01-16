@@ -8,8 +8,9 @@ const ParallaxComponent = () => {
     <Parallax bgImage={parralaxImage} strength={-200} style={{ width: "100%" }}>
       <ParallaxContainer>
         <ParallaxText>
-          Success comes to <br />
-          those who dare to begin.
+          The courage to continue, <br />
+          despite whatever setbacks <br />
+          is the huge success.
         </ParallaxText>
       </ParallaxContainer>
     </Parallax>
