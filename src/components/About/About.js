@@ -12,7 +12,7 @@ import { SectionHeading, SectionTitle } from "../styles/SectionHeading";
 import { StyledParagraph } from "../styles/Typography.styled";
 import myImage from "../../assets/about_img.jpeg";
 import downloadIcon from "../../assets/icons/download-icon.svg";
-import resume from "../../assets/Naheem-Adedokun CV.pdf";
+import resume from "../../assets/Naheem-Adedokun-CV.pdf";
 
 const About = () => {
   return (
@@ -50,7 +50,7 @@ const About = () => {
             <ResumeLink
               href={resume}
               icon={downloadIcon}
-              download="resume-naheem-adedokun"
+              download="naheem-adedokun-cv"
             >
               Download Resume
             </ResumeLink>
