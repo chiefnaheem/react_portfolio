@@ -28,8 +28,7 @@ const About = () => {
         </AboutImageContainer>
         <AboutDetailsContainer>
           <StyledParagraph>
-            My name is Naheem Adedokun, a graduate of Pharmacy at the premier school of pharmacy in
-            West Africa, the Obafemi Awolowo University, Ile Ife, Nigeria. I am a full-stack
+            My name is Naheem Adedokun, a graduate of Pharmacy at the Obafemi Awolowo University, Ile Ife, Nigeria. I am a full-stack
             developer specializing on the MERN stack. I am based in Lagos, Nigeria and a lover of
             knowledge exploits.
           </StyledParagraph>
