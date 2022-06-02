@@ -18,7 +18,7 @@ const Projects = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Want to see more?
+          Wants to see more?
         </StyledLink>
       </StyledParagraph>
       <ProjectsContainer>
