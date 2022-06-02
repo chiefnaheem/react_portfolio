@@ -35,9 +35,9 @@ const About = () => {
           </StyledParagraph>
           <StyledParagraph>
             As an adept Software Developer, I have a well-rounded skill set in Javascript, Typescript
-            and honed talents in Node.js and its framework, Express and MongoDB as NoSQL database
-            and Docker, making me an ideal fit for the position. Further, I am a recognized expert
-            in teamwork and a communicative collaborator. My previous roles have strengthened my
+            and honed talents in Node.js and its framework, Expressjs, Nestjs as well as relational and non-relational databases like MongoDB, Postgresql
+            and Devops like Docker, AWS services making me an ideal fit for your team. Further, I am a recognized expert
+            in agile teamwork and a communicative collaborator. My previous roles have strengthened my
             capabilities in communication and critical thinking, including a keen attention to
             detail and accuracy.
           </StyledParagraph>
