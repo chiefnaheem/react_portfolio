@@ -28,30 +28,25 @@ const About = () => {
         </AboutImageContainer>
         <AboutDetailsContainer>
           <StyledParagraph>
-            My name is Naheem Adedokun, a graduate of Pharmacy at the premier school of pharmacy in West Africa, the Obafemi Awolowo University, Ile Ife, Nigeria.
-            I am a full-stack developer specializing on the MERN stack. I am based in Lagos, Nigeria and a lover of knowledge exploits.
+            My name is Naheem Adedokun, a graduate of Pharmacy at the premier school of pharmacy in
+            West Africa, the Obafemi Awolowo University, Ile Ife, Nigeria. I am a full-stack
+            developer specializing on the MERN stack. I am based in Lagos, Nigeria and a lover of
+            knowledge exploits.
           </StyledParagraph>
           <StyledParagraph>
-            Since transitioning from the medical field to software, 
-            I have found fun in developing fully functional and responsive website using Javascript frameworks.
-            I have a lifelong goal of providing solutions to some of the challenges
-            facing humans in all aspects of their living and more particularly,
-            the African peculiar ones. And I live in perpetual remembrance
-            of this challenge. 
-            I work with tools and languages such as HTML5, CSS, Javascript, 
-            React JS, Node JS, Express JS, Bootstrap, MongoDB, Typescript And
-            Git on daily basis and well familiar with them.
+            As an adept Software Developer, I have a well-rounded skill set in Javascript, Typescript
+            and honed talents in Node.js and its framework, Express and MongoDB as NoSQL database
+            and Docker, making me an ideal fit for the position. Further, I am a recognized expert
+            in teamwork and a communicative collaborator. My previous roles have strengthened my
+            capabilities in communication and critical thinking, including a keen attention to
+            detail and accuracy.
           </StyledParagraph>
           <StyledParagraph>
-            I am a fast learner who puts himself forward always to learn more. 
-            I look forward to meeting you and learning from you.
+            I am a fast learner who puts himself forward always to learn more. I look forward to
+            meeting you and learning from you.
           </StyledParagraph>
           <Resume>
-            <ResumeLink
-              href={resume}
-              icon={downloadIcon}
-              download="naheem-adedokun-cv"
-            >
+            <ResumeLink href={resume} icon={downloadIcon} download="naheem-adedokun-cv">
               Download Resume
             </ResumeLink>
           </Resume>
